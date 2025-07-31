@@ -11,7 +11,7 @@ public class TypeCalculator {
 
         System.out.println("byte (1) + short (2) = " + (num1 + num2)); // int
         System.out.println("int (3) * byte (1) = " + (num3 * num1)); // int
-        System.out.println("double (6.5) + int (3) = " + (num6 + num3)); // double
+        System.out.println("double (6.5) + int (3) = " + (num6 + num3)); // doubleЫ
         System.out.println("int (7) / int (2) = " + (7 / 2)); // int = 3
         System.out.println("double (7) / int (2) = " + (7.0 / 2)); // double = 3.5
     }
